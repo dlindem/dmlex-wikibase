@@ -1,0 +1,1 @@
+/home/david/Dokumente/GitHub/zotero-wikibase/bots/xwbi.py
