@@ -1,0 +1,6 @@
+# requirements for ZotWb
+mwclient
+pandas
+wikibaseintegrator
+requests
+

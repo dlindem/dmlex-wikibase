@@ -1,1 +1,1 @@
-/home/david/Dokumente/GitHub/zotero-wikibase/bots/xwbi.py
+/home/david/Documents/GitHub/zotero-wikibase/bots/xwbi.py
