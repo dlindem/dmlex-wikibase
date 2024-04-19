@@ -10,434 +10,2847 @@
     "izobr.": "Q34167"
   },
   "entries": {
-    "entry.id.1": "L34",
-    "entry.id.2": "L35",
-    "entry.id.3": "L36",
-    "entry.id.4": "L37",
-    "entry.id.5": "L38",
-    "entry.id.6": "L39",
-    "entry.id.7": "L40",
-    "entry.id.8": "L41",
-    "entry.id.9": "L42",
-    "entry.id.10": "L43",
-    "entry.id.11": "L44",
-    "entry.id.12": "L45",
-    "entry.id.13": "L46",
-    "entry.id.14": "L47",
-    "entry.id.15": "L48",
-    "entry.id.16": "L49",
-    "entry.id.17": "L50",
-    "entry.id.18": "L51",
-    "entry.id.19": "L52",
-    "entry.id.20": "L53",
-    "entry.id.21": "L54",
-    "entry.id.22": "L55",
-    "entry.id.23": "L56",
-    "entry.id.24": "L57",
-    "entry.id.25": "L58",
-    "entry.id.26": "L59",
-    "entry.id.27": "L60",
-    "entry.id.28": "L61",
-    "entry.id.29": "L62",
-    "entry.id.30": "L63",
-    "entry.id.31": "L64",
-    "entry.id.32": "L65",
-    "entry.id.33": "L66",
-    "entry.id.34": "L67",
-    "entry.id.35": "L68",
-    "entry.id.36": "L69",
-    "entry.id.37": "L70",
-    "entry.id.38": "L71",
-    "entry.id.39": "L72",
-    "entry.id.40": "L73",
-    "entry.id.41": "L74",
-    "entry.id.42": "L75",
-    "entry.id.43": "L76",
-    "entry.id.44": "L77",
-    "entry.id.45": "L78",
-    "entry.id.46": "L79",
-    "entry.id.47": "L80",
-    "entry.id.48": "L81",
-    "entry.id.49": "L82",
-    "entry.id.50": "L83",
-    "entry.id.51": "L84",
-    "entry.id.52": "L85",
-    "entry.id.53": "L86",
-    "entry.id.54": "L87",
-    "entry.id.55": "L88",
-    "entry.id.56": "L89",
-    "entry.id.57": "L90",
-    "entry.id.58": "L91",
-    "entry.id.59": "L92",
-    "entry.id.60": "L93",
-    "entry.id.61": "L94",
-    "entry.id.62": "L95",
-    "entry.id.63": "L96",
-    "entry.id.64": "L97",
-    "entry.id.65": "L98",
-    "entry.id.66": "L99",
-    "entry.id.67": "L100",
-    "entry.id.68": "L101",
-    "entry.id.69": "L102",
-    "entry.id.70": "L103",
-    "entry.id.71": "L104",
-    "entry.id.72": "L105",
-    "entry.id.73": "L106",
-    "entry.id.74": "L107",
-    "entry.id.75": "L108",
-    "entry.id.76": "L109",
-    "entry.id.77": "L110",
-    "entry.id.78": "L111",
-    "entry.id.79": "L112",
-    "entry.id.80": "L113",
-    "entry.id.81": "L114",
-    "entry.id.82": "L115",
-    "entry.id.83": "L116",
-    "entry.id.84": "L117",
-    "entry.id.85": "L118",
-    "entry.id.86": "L119",
-    "entry.id.87": "L120",
-    "entry.id.88": "L121",
-    "entry.id.89": "L122",
-    "entry.id.90": "L123",
-    "entry.id.91": "L124",
-    "entry.id.92": "L125",
-    "entry.id.93": "L126",
-    "entry.id.94": "L127",
-    "entry.id.95": "L128",
-    "entry.id.96": "L129",
-    "entry.id.97": "L130",
-    "entry.id.98": "L131",
-    "entry.id.99": "L132",
-    "entry.id.100": "L133",
-    "entry.id.101": "L134",
-    "entry.id.102": "L135",
-    "entry.id.103": "L136",
-    "entry.id.104": "L137",
-    "entry.id.105": "L138",
-    "entry.id.106": "L139",
-    "entry.id.107": "L140",
-    "entry.id.108": "L141",
-    "entry.id.109": "L142",
-    "entry.id.110": "L143",
-    "entry.id.111": "L144",
-    "entry.id.112": "L145",
-    "entry.id.113": "L146",
-    "entry.id.114": "L147",
-    "entry.id.115": "L148",
-    "entry.id.116": "L149",
-    "entry.id.117": "L150",
-    "entry.id.118": "L151",
-    "entry.id.119": "L152",
-    "entry.id.120": "L153",
-    "entry.id.121": "L154",
-    "entry.id.122": "L155",
-    "entry.id.123": "L156",
-    "entry.id.124": "L157",
-    "entry.id.125": "L158",
-    "entry.id.126": "L159",
-    "entry.id.127": "L160",
-    "entry.id.128": "L161",
-    "entry.id.129": "L162",
-    "entry.id.130": "L163",
-    "entry.id.131": "L164",
-    "entry.id.132": "L165",
-    "entry.id.133": "L166",
-    "entry.id.134": "L167",
-    "entry.id.135": "L168",
-    "entry.id.136": "L169",
-    "entry.id.137": "L170",
-    "entry.id.138": "L171",
-    "entry.id.139": "L172",
-    "entry.id.140": "L173",
-    "entry.id.141": "L174",
-    "entry.id.142": "L175",
-    "entry.id.143": "L176",
-    "entry.id.144": "L177",
-    "entry.id.145": "L178",
-    "entry.id.146": "L179",
-    "entry.id.147": "L180",
-    "entry.id.148": "L181",
-    "entry.id.149": "L182",
-    "entry.id.150": "L183",
-    "entry.id.151": "L184",
-    "entry.id.152": "L185",
-    "entry.id.153": "L186",
-    "entry.id.154": "L187",
-    "entry.id.155": "L188",
-    "entry.id.156": "L189",
-    "entry.id.157": "L190",
-    "entry.id.158": "L191",
-    "entry.id.159": "L192",
-    "entry.id.160": "L193",
-    "entry.id.161": "L194",
-    "entry.id.162": "L195",
-    "entry.id.163": "L196",
-    "entry.id.164": "L197",
-    "entry.id.165": "L198",
-    "entry.id.166": "L199",
-    "entry.id.167": "L200",
-    "entry.id.168": "L201",
-    "entry.id.169": "L202",
-    "entry.id.170": "L203",
-    "entry.id.171": "L204",
-    "entry.id.172": "L205",
-    "entry.id.173": "L206",
-    "entry.id.174": "L207",
-    "entry.id.175": "L208",
-    "entry.id.176": "L209",
-    "entry.id.177": "L210",
-    "entry.id.178": "L211",
-    "entry.id.179": "L212",
-    "entry.id.180": "L213",
-    "entry.id.181": "L214",
-    "entry.id.182": "L215",
-    "entry.id.183": "L216",
-    "entry.id.184": "L217",
-    "entry.id.185": "L218",
-    "entry.id.186": "L219",
-    "entry.id.187": "L220",
-    "entry.id.188": "L221",
-    "entry.id.189": "L222",
-    "entry.id.190": "L223",
-    "entry.id.191": "L224",
-    "entry.id.192": "L225",
-    "entry.id.193": "L226",
-    "entry.id.194": "L227",
-    "entry.id.195": "L228",
-    "entry.id.196": "L229",
-    "entry.id.197": "L230",
-    "entry.id.198": "L231",
-    "entry.id.199": "L232",
-    "entry.id.200": "L233",
-    "entry.id.201": "L234",
-    "entry.id.202": "L235",
-    "entry.id.203": "L236",
-    "entry.id.204": "L237",
-    "entry.id.205": "L238",
-    "entry.id.206": "L239",
-    "entry.id.207": "L240",
-    "entry.id.208": "L241",
-    "entry.id.209": "L242",
-    "entry.id.210": "L243",
-    "entry.id.211": "L244",
-    "entry.id.212": "L245",
-    "entry.id.213": "L246",
-    "entry.id.214": "L247",
-    "entry.id.215": "L248",
-    "entry.id.216": "L249",
-    "entry.id.217": "L250",
-    "entry.id.218": "L251",
-    "entry.id.219": "L252",
-    "entry.id.220": "L253",
-    "entry.id.221": "L254",
-    "entry.id.222": "L255",
-    "entry.id.223": "L256",
-    "entry.id.224": "L257",
-    "entry.id.225": "L258",
-    "entry.id.226": "L259",
-    "entry.id.227": "L260",
-    "entry.id.228": "L261",
-    "entry.id.229": "L262",
-    "entry.id.230": "L263",
-    "entry.id.231": "L264",
-    "entry.id.232": "L265",
-    "entry.id.233": "L266",
-    "entry.id.234": "L267",
-    "entry.id.235": "L268",
-    "entry.id.236": "L269",
-    "entry.id.237": "L270",
-    "entry.id.238": "L271",
-    "entry.id.239": "L272",
-    "entry.id.240": "L273",
-    "entry.id.241": "L274",
-    "entry.id.242": "L275",
-    "entry.id.243": "L276",
-    "entry.id.244": "L277",
-    "entry.id.245": "L278",
-    "entry.id.246": "L279",
-    "entry.id.247": "L280",
-    "entry.id.248": "L281",
-    "entry.id.249": "L282",
-    "entry.id.250": "L283",
-    "entry.id.251": "L284",
-    "entry.id.252": "L285",
-    "entry.id.253": "L286",
-    "entry.id.254": "L287",
-    "entry.id.255": "L288",
-    "entry.id.256": "L289",
-    "entry.id.257": "L290",
-    "entry.id.258": "L291",
-    "entry.id.259": "L292",
-    "entry.id.260": "L293",
-    "entry.id.261": "L294",
-    "entry.id.262": "L295",
-    "entry.id.263": "L296",
-    "entry.id.264": "L297",
-    "entry.id.265": "L298",
-    "entry.id.266": "L299",
-    "entry.id.267": "L300",
-    "entry.id.268": "L301",
-    "entry.id.269": "L302",
-    "entry.id.270": "L303",
-    "entry.id.271": "L304",
-    "entry.id.272": "L305",
-    "entry.id.273": "L306",
-    "entry.id.274": "L307",
-    "entry.id.275": "L308",
-    "entry.id.276": "L309",
-    "entry.id.277": "L310",
-    "entry.id.278": "L311",
-    "entry.id.279": "L312",
-    "entry.id.280": "L313",
-    "entry.id.281": "L314",
-    "entry.id.282": "L315",
-    "entry.id.283": "L316",
-    "entry.id.284": "L317",
-    "entry.id.285": "L318",
-    "entry.id.286": "L319",
-    "entry.id.287": "L320",
-    "entry.id.288": "L321",
-    "entry.id.289": "L322",
-    "entry.id.290": "L323",
-    "entry.id.291": "L324",
-    "entry.id.292": "L325",
-    "entry.id.293": "L326",
-    "entry.id.294": "L327",
-    "entry.id.295": "L328",
-    "entry.id.296": "L329",
-    "entry.id.297": "L330",
-    "entry.id.298": "L331",
-    "entry.id.299": "L332",
-    "entry.id.300": "L333",
-    "entry.id.301": "L334",
-    "entry.id.302": "L335",
-    "entry.id.303": "L336",
-    "entry.id.304": "L337",
-    "entry.id.305": "L338",
-    "entry.id.306": "L339",
-    "entry.id.307": "L340",
-    "entry.id.308": "L341",
-    "entry.id.309": "L342",
-    "entry.id.310": "L343",
-    "entry.id.311": "L344",
-    "entry.id.312": "L345",
-    "entry.id.313": "L346",
-    "entry.id.314": "L347",
-    "entry.id.315": "L348",
-    "entry.id.316": "L349",
-    "entry.id.317": "L350",
-    "entry.id.318": "L351",
-    "entry.id.319": "L352",
-    "entry.id.320": "L353",
-    "entry.id.321": "L354",
-    "entry.id.322": "L355",
-    "entry.id.323": "L356",
-    "entry.id.324": "L357",
-    "entry.id.325": "L358",
-    "entry.id.326": "L359",
-    "entry.id.327": "L360",
-    "entry.id.328": "L361",
-    "entry.id.329": "L362",
-    "entry.id.330": "L363",
-    "entry.id.331": "L364",
-    "entry.id.332": "L365",
-    "entry.id.333": "L366",
-    "entry.id.334": "L367",
-    "entry.id.335": "L368",
-    "entry.id.336": "L369",
-    "entry.id.337": "L370",
-    "entry.id.338": "L371",
-    "entry.id.339": "L372",
-    "entry.id.340": "L373",
-    "entry.id.341": "L374",
-    "entry.id.342": "L375",
-    "entry.id.343": "L376",
-    "entry.id.344": "L377",
-    "entry.id.345": "L378",
-    "entry.id.346": "L379",
-    "entry.id.347": "L380",
-    "entry.id.348": "L381",
-    "entry.id.349": "L382",
-    "entry.id.350": "L383",
-    "entry.id.351": "L384",
-    "entry.id.352": "L385",
-    "entry.id.353": "L386",
-    "entry.id.354": "L387",
-    "entry.id.355": "L388",
-    "entry.id.356": "L389",
-    "entry.id.357": "L390",
-    "entry.id.358": "L391",
-    "entry.id.359": "L392",
-    "entry.id.360": "L393",
-    "entry.id.361": "L394",
-    "entry.id.362": "L395",
-    "entry.id.363": "L396",
-    "entry.id.364": "L397",
-    "entry.id.365": "L398",
-    "entry.id.366": "L399",
-    "entry.id.367": "L400",
-    "entry.id.368": "L401",
-    "entry.id.369": "L402",
-    "entry.id.370": "L403",
-    "entry.id.371": "L404",
-    "entry.id.372": "L405",
-    "entry.id.373": "L406",
-    "entry.id.374": "L407",
-    "entry.id.375": "L408",
-    "entry.id.376": "L409",
-    "entry.id.377": "L410",
-    "entry.id.378": "L411",
-    "entry.id.379": "L412",
-    "entry.id.380": "L413",
-    "entry.id.381": "L414",
-    "entry.id.382": "L415",
-    "entry.id.383": "L416",
-    "entry.id.384": "L417",
-    "entry.id.385": "L418",
-    "entry.id.386": "L419",
-    "entry.id.387": "L420",
-    "entry.id.388": "L421",
-    "entry.id.389": "L422",
-    "entry.id.390": "L423",
-    "entry.id.391": "L424",
-    "entry.id.392": "L425",
-    "entry.id.393": "L426",
-    "entry.id.394": "L427",
-    "entry.id.395": "L428",
-    "entry.id.396": "L429",
-    "entry.id.397": "L430",
-    "entry.id.398": "L431",
-    "entry.id.399": "L432",
-    "entry.id.400": "L433",
-    "entry.id.401": "L434",
-    "entry.id.402": "L435",
-    "entry.id.403": "L436",
-    "entry.id.404": "L437",
-    "entry.id.405": "L438",
-    "entry.id.406": "L439",
-    "entry.id.407": "L440",
-    "entry.id.408": "L441",
-    "entry.id.409": "L442",
-    "entry.id.410": "L443",
-    "entry.id.411": "L444",
-    "entry.id.412": "L445",
-    "entry.id.413": "L446",
-    "entry.id.414": "L447",
-    "entry.id.415": "L448",
-    "entry.id.416": "L449",
-    "entry.id.417": "L450",
-    "entry.id.418": "L451",
-    "entry.id.419": "L452",
-    "entry.id.420": "L453",
-    "entry.id.421": "L454",
-    "entry.id.422": "L455",
-    "entry.id.423": "L456",
-    "entry.id.424": "L457",
-    "entry.id.425": "L458",
-    "entry.id.426": "L459",
-    "entry.id.427": "L460",
-    "entry.id.428": "L461",
-    "entry.id.429": "L462"
+    "entry.id.1": {
+      "lid": "L34",
+      "senses": {
+        "L34-S1": true,
+        "L34-S2": true,
+        "L34-S3": true
+      }
+    },
+    "entry.id.2": {
+      "lid": "L35",
+      "senses": {
+        "L35-S1": true
+      }
+    },
+    "entry.id.3": {
+      "lid": "L36",
+      "senses": {
+        "L36-S1": true
+      }
+    },
+    "entry.id.4": {
+      "lid": "L37",
+      "senses": {
+        "L37-S1": true,
+        "L37-S2": true
+      }
+    },
+    "entry.id.5": {
+      "lid": "L38",
+      "senses": {
+        "L38-S1": true
+      }
+    },
+    "entry.id.6": {
+      "lid": "L39",
+      "senses": {
+        "L39-S1": true
+      }
+    },
+    "entry.id.7": {
+      "lid": "L40",
+      "senses": {
+        "L40-S1": true
+      }
+    },
+    "entry.id.8": {
+      "lid": "L41",
+      "senses": {
+        "L41-S1": true,
+        "L41-S2": true,
+        "L41-S3": true,
+        "L41-S4": true,
+        "L41-S5": true,
+        "L41-S6": true
+      }
+    },
+    "entry.id.9": {
+      "lid": "L42",
+      "senses": {
+        "L42-S1": true
+      }
+    },
+    "entry.id.10": {
+      "lid": "L43",
+      "senses": {
+        "L43-S1": true
+      }
+    },
+    "entry.id.11": {
+      "lid": "L44",
+      "senses": {
+        "L44-S1": true
+      }
+    },
+    "entry.id.12": {
+      "lid": "L45",
+      "senses": {
+        "L45-S1": true,
+        "L45-S2": true,
+        "L45-S3": true
+      }
+    },
+    "entry.id.13": {
+      "lid": "L46",
+      "senses": {
+        "L46-S1": true,
+        "L46-S2": true,
+        "L46-S3": true
+      }
+    },
+    "entry.id.14": {
+      "lid": "L47",
+      "senses": {
+        "L47-S1": true
+      }
+    },
+    "entry.id.15": {
+      "lid": "L48",
+      "senses": {
+        "L48-S1": true
+      }
+    },
+    "entry.id.16": {
+      "lid": "L49",
+      "senses": {
+        "L49-S1": true
+      }
+    },
+    "entry.id.17": {
+      "lid": "L50",
+      "senses": {
+        "L50-S1": true
+      }
+    },
+    "entry.id.18": {
+      "lid": "L51",
+      "senses": {
+        "L51-S1": true
+      }
+    },
+    "entry.id.19": {
+      "lid": "L52",
+      "senses": {
+        "L52-S1": true,
+        "L52-S2": true,
+        "L52-S3": true
+      }
+    },
+    "entry.id.20": {
+      "lid": "L53",
+      "senses": {
+        "L53-S1": true,
+        "L53-S2": true,
+        "L53-S3": true
+      }
+    },
+    "entry.id.21": {
+      "lid": "L54",
+      "senses": {
+        "L54-S1": true
+      }
+    },
+    "entry.id.22": {
+      "lid": "L55",
+      "senses": {
+        "L55-S1": true
+      }
+    },
+    "entry.id.23": {
+      "lid": "L56",
+      "senses": {
+        "L56-S1": true
+      }
+    },
+    "entry.id.24": {
+      "lid": "L57",
+      "senses": {
+        "L57-S1": true
+      }
+    },
+    "entry.id.25": {
+      "lid": "L58",
+      "senses": {
+        "L58-S1": true
+      }
+    },
+    "entry.id.26": {
+      "lid": "L59",
+      "senses": {
+        "L59-S1": true,
+        "L59-S2": true
+      }
+    },
+    "entry.id.27": {
+      "lid": "L60",
+      "senses": {
+        "L60-S1": true,
+        "L60-S2": true
+      }
+    },
+    "entry.id.28": {
+      "lid": "L61",
+      "senses": {
+        "L61-S1": true,
+        "L61-S2": true
+      }
+    },
+    "entry.id.29": {
+      "lid": "L62",
+      "senses": {
+        "L62-S1": true,
+        "L62-S2": true
+      }
+    },
+    "entry.id.30": {
+      "lid": "L63",
+      "senses": {
+        "L63-S1": true
+      }
+    },
+    "entry.id.31": {
+      "lid": "L64",
+      "senses": {
+        "L64-S1": true
+      }
+    },
+    "entry.id.32": {
+      "lid": "L65",
+      "senses": {
+        "L65-S1": true
+      }
+    },
+    "entry.id.33": {
+      "lid": "L66",
+      "senses": {
+        "L66-S1": true
+      }
+    },
+    "entry.id.34": {
+      "lid": "L67",
+      "senses": {
+        "L67-S1": true
+      }
+    },
+    "entry.id.35": {
+      "lid": "L68",
+      "senses": {
+        "L68-S1": true
+      }
+    },
+    "entry.id.36": {
+      "lid": "L69",
+      "senses": {
+        "L69-S1": true
+      }
+    },
+    "entry.id.37": {
+      "lid": "L70",
+      "senses": {
+        "L70-S1": true,
+        "L70-S2": true
+      }
+    },
+    "entry.id.38": {
+      "lid": "L71",
+      "senses": {
+        "L71-S1": true
+      }
+    },
+    "entry.id.39": {
+      "lid": "L72",
+      "senses": {
+        "L72-S1": true,
+        "L72-S2": true,
+        "L72-S3": true,
+        "L72-S4": true,
+        "L72-S5": true,
+        "L72-S6": true
+      }
+    },
+    "entry.id.40": {
+      "lid": "L73",
+      "senses": {
+        "L73-S1": true
+      }
+    },
+    "entry.id.41": {
+      "lid": "L74",
+      "senses": {
+        "L74-S1": true,
+        "L74-S2": true,
+        "L74-S3": true
+      }
+    },
+    "entry.id.42": {
+      "lid": "L75",
+      "senses": {
+        "L75-S1": true
+      }
+    },
+    "entry.id.43": {
+      "lid": "L76",
+      "senses": {
+        "L76-S1": true,
+        "L76-S2": true
+      }
+    },
+    "entry.id.44": {
+      "lid": "L77",
+      "senses": {
+        "L77-S1": true
+      }
+    },
+    "entry.id.45": {
+      "lid": "L78",
+      "senses": {
+        "L78-S1": true,
+        "L78-S2": true
+      }
+    },
+    "entry.id.46": {
+      "lid": "L79",
+      "senses": {
+        "L79-S1": true
+      }
+    },
+    "entry.id.47": {
+      "lid": "L80",
+      "senses": {
+        "L80-S1": true,
+        "L80-S2": true
+      }
+    },
+    "entry.id.48": {
+      "lid": "L81",
+      "senses": {
+        "L81-S1": true,
+        "L81-S2": true,
+        "L81-S3": true
+      }
+    },
+    "entry.id.49": {
+      "lid": "L82",
+      "senses": {
+        "L82-S1": true
+      }
+    },
+    "entry.id.50": {
+      "lid": "L83",
+      "senses": {
+        "L83-S1": true
+      }
+    },
+    "entry.id.51": {
+      "lid": "L84",
+      "senses": {
+        "L84-S1": true
+      }
+    },
+    "entry.id.52": {
+      "lid": "L85",
+      "senses": {
+        "L85-S1": true,
+        "L85-S2": true
+      }
+    },
+    "entry.id.53": {
+      "lid": "L86",
+      "senses": {
+        "L86-S1": true
+      }
+    },
+    "entry.id.54": {
+      "lid": "L87",
+      "senses": {
+        "L87-S1": true
+      }
+    },
+    "entry.id.55": {
+      "lid": "L88",
+      "senses": {
+        "L88-S1": true
+      }
+    },
+    "entry.id.56": {
+      "lid": "L89",
+      "senses": {
+        "L89-S1": true
+      }
+    },
+    "entry.id.57": {
+      "lid": "L90",
+      "senses": {
+        "L90-S1": true
+      }
+    },
+    "entry.id.58": {
+      "lid": "L91",
+      "senses": {
+        "L91-S1": true
+      }
+    },
+    "entry.id.59": {
+      "lid": "L92",
+      "senses": {
+        "L92-S1": true,
+        "L92-S2": true
+      }
+    },
+    "entry.id.60": {
+      "lid": "L93",
+      "senses": {
+        "L93-S1": true
+      }
+    },
+    "entry.id.61": {
+      "lid": "L94",
+      "senses": {
+        "L94-S1": true
+      }
+    },
+    "entry.id.62": {
+      "lid": "L95",
+      "senses": {
+        "L95-S1": true
+      }
+    },
+    "entry.id.63": {
+      "lid": "L96",
+      "senses": {
+        "L96-S1": true
+      }
+    },
+    "entry.id.64": {
+      "lid": "L97",
+      "senses": {
+        "L97-S1": true
+      }
+    },
+    "entry.id.65": {
+      "lid": "L98",
+      "senses": {
+        "L98-S1": true
+      }
+    },
+    "entry.id.66": {
+      "lid": "L99",
+      "senses": {
+        "L99-S1": true
+      }
+    },
+    "entry.id.67": {
+      "lid": "L100",
+      "senses": {
+        "L100-S1": true,
+        "L100-S2": true,
+        "L100-S3": true,
+        "L100-S4": true,
+        "L100-S5": true
+      }
+    },
+    "entry.id.68": {
+      "lid": "L101",
+      "senses": {
+        "L101-S1": true
+      }
+    },
+    "entry.id.69": {
+      "lid": "L102",
+      "senses": {
+        "L102-S1": true
+      }
+    },
+    "entry.id.70": {
+      "lid": "L103",
+      "senses": {
+        "L103-S1": true,
+        "L103-S2": true
+      }
+    },
+    "entry.id.71": {
+      "lid": "L104",
+      "senses": {
+        "L104-S1": true,
+        "L104-S2": true
+      }
+    },
+    "entry.id.72": {
+      "lid": "L105",
+      "senses": {
+        "L105-S1": true,
+        "L105-S2": true
+      }
+    },
+    "entry.id.73": {
+      "lid": "L106",
+      "senses": {
+        "L106-S1": true
+      }
+    },
+    "entry.id.74": {
+      "lid": "L107",
+      "senses": {
+        "L107-S1": true
+      }
+    },
+    "entry.id.75": {
+      "lid": "L108",
+      "senses": {
+        "L108-S1": true,
+        "L108-S2": true
+      }
+    },
+    "entry.id.76": {
+      "lid": "L109",
+      "senses": {
+        "L109-S1": true
+      }
+    },
+    "entry.id.77": {
+      "lid": "L110",
+      "senses": {
+        "L110-S1": true
+      }
+    },
+    "entry.id.78": {
+      "lid": "L111",
+      "senses": {
+        "L111-S1": true
+      }
+    },
+    "entry.id.79": {
+      "lid": "L112",
+      "senses": {
+        "L112-S1": true,
+        "L112-S2": true
+      }
+    },
+    "entry.id.80": {
+      "lid": "L113",
+      "senses": {
+        "L113-S1": true,
+        "L113-S2": true
+      }
+    },
+    "entry.id.81": {
+      "lid": "L114",
+      "senses": {
+        "L114-S1": true
+      }
+    },
+    "entry.id.82": {
+      "lid": "L115",
+      "senses": {
+        "L115-S1": true
+      }
+    },
+    "entry.id.83": {
+      "lid": "L116",
+      "senses": {
+        "L116-S1": true
+      }
+    },
+    "entry.id.84": {
+      "lid": "L117",
+      "senses": {
+        "L117-S1": true,
+        "L117-S2": true
+      }
+    },
+    "entry.id.85": {
+      "lid": "L118",
+      "senses": {
+        "L118-S1": true,
+        "L118-S2": true
+      }
+    },
+    "entry.id.86": {
+      "lid": "L119",
+      "senses": {
+        "L119-S1": true
+      }
+    },
+    "entry.id.87": {
+      "lid": "L120",
+      "senses": {
+        "L120-S1": true
+      }
+    },
+    "entry.id.88": {
+      "lid": "L121",
+      "senses": {
+        "L121-S1": true,
+        "L121-S2": true
+      }
+    },
+    "entry.id.89": {
+      "lid": "L122",
+      "senses": {
+        "L122-S1": true
+      }
+    },
+    "entry.id.90": {
+      "lid": "L123",
+      "senses": {
+        "L123-S1": true
+      }
+    },
+    "entry.id.91": {
+      "lid": "L124",
+      "senses": {
+        "L124-S1": true,
+        "L124-S2": true
+      }
+    },
+    "entry.id.92": {
+      "lid": "L125",
+      "senses": {
+        "L125-S1": true
+      }
+    },
+    "entry.id.93": {
+      "lid": "L126",
+      "senses": {
+        "L126-S1": true
+      }
+    },
+    "entry.id.94": {
+      "lid": "L127",
+      "senses": {
+        "L127-S1": true
+      }
+    },
+    "entry.id.95": {
+      "lid": "L128",
+      "senses": {
+        "L128-S1": true
+      }
+    },
+    "entry.id.96": {
+      "lid": "L129",
+      "senses": {
+        "L129-S1": true
+      }
+    },
+    "entry.id.97": {
+      "lid": "L130",
+      "senses": {
+        "L130-S1": true,
+        "L130-S2": true
+      }
+    },
+    "entry.id.98": {
+      "lid": "L131",
+      "senses": {
+        "L131-S1": true,
+        "L131-S2": true
+      }
+    },
+    "entry.id.99": {
+      "lid": "L132",
+      "senses": {
+        "L132-S1": true
+      }
+    },
+    "entry.id.100": {
+      "lid": "L133",
+      "senses": {
+        "L133-S1": true
+      }
+    },
+    "entry.id.101": {
+      "lid": "L134",
+      "senses": {
+        "L134-S1": true
+      }
+    },
+    "entry.id.102": {
+      "lid": "L135",
+      "senses": {
+        "L135-S1": true,
+        "L135-S2": true
+      }
+    },
+    "entry.id.103": {
+      "lid": "L136",
+      "senses": {
+        "L136-S1": true
+      }
+    },
+    "entry.id.104": {
+      "lid": "L137",
+      "senses": {
+        "L137-S1": true,
+        "L137-S2": true
+      }
+    },
+    "entry.id.105": {
+      "lid": "L138",
+      "senses": {
+        "L138-S1": true,
+        "L138-S2": true
+      }
+    },
+    "entry.id.106": {
+      "lid": "L139",
+      "senses": {
+        "L139-S1": true
+      }
+    },
+    "entry.id.107": {
+      "lid": "L140",
+      "senses": {
+        "L140-S1": true,
+        "L140-S2": true,
+        "L140-S3": true,
+        "L140-S4": true,
+        "L140-S5": true
+      }
+    },
+    "entry.id.108": {
+      "lid": "L141",
+      "senses": {
+        "L141-S1": true
+      }
+    },
+    "entry.id.109": {
+      "lid": "L142",
+      "senses": {
+        "L142-S1": true
+      }
+    },
+    "entry.id.110": {
+      "lid": "L143",
+      "senses": {
+        "L143-S1": true,
+        "L143-S2": true
+      }
+    },
+    "entry.id.111": {
+      "lid": "L144",
+      "senses": {
+        "L144-S1": true
+      }
+    },
+    "entry.id.112": {
+      "lid": "L145",
+      "senses": {
+        "L145-S1": true
+      }
+    },
+    "entry.id.113": {
+      "lid": "L146",
+      "senses": {
+        "L146-S1": true,
+        "L146-S2": true
+      }
+    },
+    "entry.id.114": {
+      "lid": "L147",
+      "senses": {
+        "L147-S1": true
+      }
+    },
+    "entry.id.115": {
+      "lid": "L148",
+      "senses": {
+        "L148-S1": true
+      }
+    },
+    "entry.id.116": {
+      "lid": "L149",
+      "senses": {
+        "L149-S1": true,
+        "L149-S2": true,
+        "L149-S3": true,
+        "L149-S4": true,
+        "L149-S5": true,
+        "L149-S6": true
+      }
+    },
+    "entry.id.117": {
+      "lid": "L150",
+      "senses": {
+        "L150-S1": true,
+        "L150-S2": true
+      }
+    },
+    "entry.id.118": {
+      "lid": "L151",
+      "senses": {
+        "L151-S1": true
+      }
+    },
+    "entry.id.119": {
+      "lid": "L152",
+      "senses": {
+        "L152-S1": true,
+        "L152-S2": true
+      }
+    },
+    "entry.id.120": {
+      "lid": "L153",
+      "senses": {
+        "L153-S1": true,
+        "L153-S2": true
+      }
+    },
+    "entry.id.121": {
+      "lid": "L154",
+      "senses": {
+        "L154-S1": true
+      }
+    },
+    "entry.id.122": {
+      "lid": "L155",
+      "senses": {
+        "L155-S1": true,
+        "L155-S2": true,
+        "L155-S3": true,
+        "L155-S4": true,
+        "L155-S5": true
+      }
+    },
+    "entry.id.123": {
+      "lid": "L156",
+      "senses": {
+        "L156-S1": true
+      }
+    },
+    "entry.id.124": {
+      "lid": "L157",
+      "senses": {
+        "L157-S1": true
+      }
+    },
+    "entry.id.125": {
+      "lid": "L158",
+      "senses": {
+        "L158-S1": true
+      }
+    },
+    "entry.id.126": {
+      "lid": "L159",
+      "senses": {
+        "L159-S1": true
+      }
+    },
+    "entry.id.127": {
+      "lid": "L160",
+      "senses": {
+        "L160-S1": true
+      }
+    },
+    "entry.id.128": {
+      "lid": "L161",
+      "senses": {
+        "L161-S1": true
+      }
+    },
+    "entry.id.129": {
+      "lid": "L162",
+      "senses": {
+        "L162-S1": true
+      }
+    },
+    "entry.id.130": {
+      "lid": "L163",
+      "senses": {
+        "L163-S1": true,
+        "L163-S2": true,
+        "L163-S3": true,
+        "L163-S4": true
+      }
+    },
+    "entry.id.131": {
+      "lid": "L164",
+      "senses": {
+        "L164-S1": true
+      }
+    },
+    "entry.id.132": {
+      "lid": "L165",
+      "senses": {
+        "L165-S1": true
+      }
+    },
+    "entry.id.133": {
+      "lid": "L166",
+      "senses": {
+        "L166-S1": true
+      }
+    },
+    "entry.id.134": {
+      "lid": "L167",
+      "senses": {
+        "L167-S1": true
+      }
+    },
+    "entry.id.135": {
+      "lid": "L168",
+      "senses": {
+        "L168-S1": true
+      }
+    },
+    "entry.id.136": {
+      "lid": "L169",
+      "senses": {
+        "L169-S1": true,
+        "L169-S2": true
+      }
+    },
+    "entry.id.137": {
+      "lid": "L170",
+      "senses": {
+        "L170-S1": true,
+        "L170-S2": true,
+        "L170-S3": true,
+        "L170-S4": true,
+        "L170-S5": true
+      }
+    },
+    "entry.id.138": {
+      "lid": "L171",
+      "senses": {
+        "L171-S1": true
+      }
+    },
+    "entry.id.139": {
+      "lid": "L172",
+      "senses": {
+        "L172-S1": true
+      }
+    },
+    "entry.id.140": {
+      "lid": "L173",
+      "senses": {
+        "L173-S1": true,
+        "L173-S2": true,
+        "L173-S3": true
+      }
+    },
+    "entry.id.141": {
+      "lid": "L174",
+      "senses": {
+        "L174-S1": true
+      }
+    },
+    "entry.id.142": {
+      "lid": "L175",
+      "senses": {
+        "L175-S1": true
+      }
+    },
+    "entry.id.143": {
+      "lid": "L176",
+      "senses": {
+        "L176-S1": true,
+        "L176-S2": true
+      }
+    },
+    "entry.id.144": {
+      "lid": "L177",
+      "senses": {
+        "L177-S1": true
+      }
+    },
+    "entry.id.145": {
+      "lid": "L178",
+      "senses": {
+        "L178-S1": true,
+        "L178-S2": true
+      }
+    },
+    "entry.id.146": {
+      "lid": "L179",
+      "senses": {
+        "L179-S1": true
+      }
+    },
+    "entry.id.147": {
+      "lid": "L180",
+      "senses": {
+        "L180-S1": true
+      }
+    },
+    "entry.id.148": {
+      "lid": "L181",
+      "senses": {
+        "L181-S1": true
+      }
+    },
+    "entry.id.149": {
+      "lid": "L182",
+      "senses": {
+        "L182-S1": true
+      }
+    },
+    "entry.id.150": {
+      "lid": "L183",
+      "senses": {
+        "L183-S1": true,
+        "L183-S2": true
+      }
+    },
+    "entry.id.151": {
+      "lid": "L184",
+      "senses": {
+        "L184-S1": true
+      }
+    },
+    "entry.id.152": {
+      "lid": "L185",
+      "senses": {
+        "L185-S1": true
+      }
+    },
+    "entry.id.153": {
+      "lid": "L186",
+      "senses": {
+        "L186-S1": true
+      }
+    },
+    "entry.id.154": {
+      "lid": "L187",
+      "senses": {
+        "L187-S1": true
+      }
+    },
+    "entry.id.155": {
+      "lid": "L188",
+      "senses": {
+        "L188-S1": true
+      }
+    },
+    "entry.id.156": {
+      "lid": "L189",
+      "senses": {
+        "L189-S1": true
+      }
+    },
+    "entry.id.157": {
+      "lid": "L190",
+      "senses": {
+        "L190-S1": true,
+        "L190-S2": true
+      }
+    },
+    "entry.id.158": {
+      "lid": "L191",
+      "senses": {
+        "L191-S1": true,
+        "L191-S2": true
+      }
+    },
+    "entry.id.159": {
+      "lid": "L192",
+      "senses": {
+        "L192-S1": true
+      }
+    },
+    "entry.id.160": {
+      "lid": "L193",
+      "senses": {
+        "L193-S1": true
+      }
+    },
+    "entry.id.161": {
+      "lid": "L194",
+      "senses": {
+        "L194-S1": true
+      }
+    },
+    "entry.id.162": {
+      "lid": "L195",
+      "senses": {
+        "L195-S1": true
+      }
+    },
+    "entry.id.163": {
+      "lid": "L196",
+      "senses": {
+        "L196-S1": true,
+        "L196-S2": true,
+        "L196-S3": true,
+        "L196-S4": true,
+        "L196-S5": true
+      }
+    },
+    "entry.id.164": {
+      "lid": "L197",
+      "senses": {
+        "L197-S1": true
+      }
+    },
+    "entry.id.165": {
+      "lid": "L198",
+      "senses": {
+        "L198-S1": true
+      }
+    },
+    "entry.id.166": {
+      "lid": "L199",
+      "senses": {
+        "L199-S1": true,
+        "L199-S2": true
+      }
+    },
+    "entry.id.167": {
+      "lid": "L200",
+      "senses": {
+        "L200-S1": true
+      }
+    },
+    "entry.id.168": {
+      "lid": "L201",
+      "senses": {
+        "L201-S1": true,
+        "L201-S2": true
+      }
+    },
+    "entry.id.169": {
+      "lid": "L202",
+      "senses": {
+        "L202-S1": true
+      }
+    },
+    "entry.id.170": {
+      "lid": "L203",
+      "senses": {
+        "L203-S1": true
+      }
+    },
+    "entry.id.171": {
+      "lid": "L204",
+      "senses": {
+        "L204-S1": true
+      }
+    },
+    "entry.id.172": {
+      "lid": "L205",
+      "senses": {
+        "L205-S1": true
+      }
+    },
+    "entry.id.173": {
+      "lid": "L206",
+      "senses": {
+        "L206-S1": true,
+        "L206-S2": true,
+        "L206-S3": true
+      }
+    },
+    "entry.id.174": {
+      "lid": "L207",
+      "senses": {
+        "L207-S1": true
+      }
+    },
+    "entry.id.175": {
+      "lid": "L208",
+      "senses": {
+        "L208-S1": true
+      }
+    },
+    "entry.id.176": {
+      "lid": "L209",
+      "senses": {
+        "L209-S1": true
+      }
+    },
+    "entry.id.177": {
+      "lid": "L210",
+      "senses": {
+        "L210-S1": true,
+        "L210-S2": true
+      }
+    },
+    "entry.id.178": {
+      "lid": "L211",
+      "senses": {
+        "L211-S1": true
+      }
+    },
+    "entry.id.179": {
+      "lid": "L212",
+      "senses": {
+        "L212-S1": true
+      }
+    },
+    "entry.id.180": {
+      "lid": "L213",
+      "senses": {
+        "L213-S1": true
+      }
+    },
+    "entry.id.181": {
+      "lid": "L214",
+      "senses": {
+        "L214-S1": true
+      }
+    },
+    "entry.id.182": {
+      "lid": "L215",
+      "senses": {
+        "L215-S1": true,
+        "L215-S2": true
+      }
+    },
+    "entry.id.183": {
+      "lid": "L216",
+      "senses": {
+        "L216-S1": true
+      }
+    },
+    "entry.id.184": {
+      "lid": "L217",
+      "senses": {
+        "L217-S1": true,
+        "L217-S2": true,
+        "L217-S3": true,
+        "L217-S4": true
+      }
+    },
+    "entry.id.185": {
+      "lid": "L218",
+      "senses": {
+        "L218-S1": true
+      }
+    },
+    "entry.id.186": {
+      "lid": "L219",
+      "senses": {
+        "L219-S1": true,
+        "L219-S2": true,
+        "L219-S3": true,
+        "L219-S4": true,
+        "L219-S5": true
+      }
+    },
+    "entry.id.187": {
+      "lid": "L220",
+      "senses": {
+        "L220-S1": true
+      }
+    },
+    "entry.id.188": {
+      "lid": "L221",
+      "senses": {
+        "L221-S1": true,
+        "L221-S2": true
+      }
+    },
+    "entry.id.189": {
+      "lid": "L222",
+      "senses": {
+        "L222-S1": true
+      }
+    },
+    "entry.id.190": {
+      "lid": "L223",
+      "senses": {
+        "L223-S1": true
+      }
+    },
+    "entry.id.191": {
+      "lid": "L224",
+      "senses": {
+        "L224-S1": true
+      }
+    },
+    "entry.id.192": {
+      "lid": "L225",
+      "senses": {
+        "L225-S1": true,
+        "L225-S2": true,
+        "L225-S3": true
+      }
+    },
+    "entry.id.193": {
+      "lid": "L226",
+      "senses": {
+        "L226-S1": true,
+        "L226-S2": true
+      }
+    },
+    "entry.id.194": {
+      "lid": "L227",
+      "senses": {
+        "L227-S1": true
+      }
+    },
+    "entry.id.195": {
+      "lid": "L228",
+      "senses": {
+        "L228-S1": true
+      }
+    },
+    "entry.id.196": {
+      "lid": "L229",
+      "senses": {
+        "L229-S1": true,
+        "L229-S2": true
+      }
+    },
+    "entry.id.197": {
+      "lid": "L230",
+      "senses": {
+        "L230-S1": true,
+        "L230-S2": true
+      }
+    },
+    "entry.id.198": {
+      "lid": "L231",
+      "senses": {
+        "L231-S1": true
+      }
+    },
+    "entry.id.199": {
+      "lid": "L232",
+      "senses": {
+        "L232-S1": true,
+        "L232-S2": true
+      }
+    },
+    "entry.id.200": {
+      "lid": "L233",
+      "senses": {
+        "L233-S1": true
+      }
+    },
+    "entry.id.201": {
+      "lid": "L234",
+      "senses": {
+        "L234-S1": true
+      }
+    },
+    "entry.id.202": {
+      "lid": "L235",
+      "senses": {
+        "L235-S1": true
+      }
+    },
+    "entry.id.203": {
+      "lid": "L236",
+      "senses": {
+        "L236-S1": true,
+        "L236-S2": true
+      }
+    },
+    "entry.id.204": {
+      "lid": "L237",
+      "senses": {
+        "L237-S1": true,
+        "L237-S2": true
+      }
+    },
+    "entry.id.205": {
+      "lid": "L238",
+      "senses": {
+        "L238-S1": true
+      }
+    },
+    "entry.id.206": {
+      "lid": "L239",
+      "senses": {
+        "L239-S1": true,
+        "L239-S2": true,
+        "L239-S3": true
+      }
+    },
+    "entry.id.207": {
+      "lid": "L240",
+      "senses": {
+        "L240-S1": true
+      }
+    },
+    "entry.id.208": {
+      "lid": "L241",
+      "senses": {
+        "L241-S1": true
+      }
+    },
+    "entry.id.209": {
+      "lid": "L242",
+      "senses": {
+        "L242-S1": true
+      }
+    },
+    "entry.id.210": {
+      "lid": "L243",
+      "senses": {
+        "L243-S1": true
+      }
+    },
+    "entry.id.211": {
+      "lid": "L244",
+      "senses": {
+        "L244-S1": true
+      }
+    },
+    "entry.id.212": {
+      "lid": "L245",
+      "senses": {
+        "L245-S1": true
+      }
+    },
+    "entry.id.213": {
+      "lid": "L246",
+      "senses": {
+        "L246-S1": true
+      }
+    },
+    "entry.id.214": {
+      "lid": "L247",
+      "senses": {
+        "L247-S1": true,
+        "L247-S2": true,
+        "L247-S3": true
+      }
+    },
+    "entry.id.215": {
+      "lid": "L248",
+      "senses": {
+        "L248-S1": true,
+        "L248-S2": true,
+        "L248-S3": true
+      }
+    },
+    "entry.id.216": {
+      "lid": "L249",
+      "senses": {
+        "L249-S1": true
+      }
+    },
+    "entry.id.217": {
+      "lid": "L250",
+      "senses": {
+        "L250-S1": true,
+        "L250-S2": true,
+        "L250-S3": true,
+        "L250-S4": true,
+        "L250-S5": true,
+        "L250-S6": true,
+        "L250-S7": true
+      }
+    },
+    "entry.id.218": {
+      "lid": "L251",
+      "senses": {
+        "L251-S1": true
+      }
+    },
+    "entry.id.219": {
+      "lid": "L252",
+      "senses": {
+        "L252-S1": true
+      }
+    },
+    "entry.id.220": {
+      "lid": "L253",
+      "senses": {
+        "L253-S1": true
+      }
+    },
+    "entry.id.221": {
+      "lid": "L254",
+      "senses": {
+        "L254-S1": true
+      }
+    },
+    "entry.id.222": {
+      "lid": "L255",
+      "senses": {
+        "L255-S1": true,
+        "L255-S2": true
+      }
+    },
+    "entry.id.223": {
+      "lid": "L256",
+      "senses": {
+        "L256-S1": true,
+        "L256-S2": true
+      }
+    },
+    "entry.id.224": {
+      "lid": "L257",
+      "senses": {
+        "L257-S1": true
+      }
+    },
+    "entry.id.225": {
+      "lid": "L258",
+      "senses": {
+        "L258-S1": true
+      }
+    },
+    "entry.id.226": {
+      "lid": "L259",
+      "senses": {
+        "L259-S1": true
+      }
+    },
+    "entry.id.227": {
+      "lid": "L260",
+      "senses": {
+        "L260-S1": true
+      }
+    },
+    "entry.id.228": {
+      "lid": "L261",
+      "senses": {
+        "L261-S1": true
+      }
+    },
+    "entry.id.229": {
+      "lid": "L262",
+      "senses": {
+        "L262-S1": true,
+        "L262-S2": true,
+        "L262-S3": true
+      }
+    },
+    "entry.id.230": {
+      "lid": "L263",
+      "senses": {
+        "L263-S1": true
+      }
+    },
+    "entry.id.231": {
+      "lid": "L264",
+      "senses": {
+        "L264-S1": true
+      }
+    },
+    "entry.id.232": {
+      "lid": "L265",
+      "senses": {
+        "L265-S1": true
+      }
+    },
+    "entry.id.233": {
+      "lid": "L266",
+      "senses": {
+        "L266-S1": true,
+        "L266-S2": true
+      }
+    },
+    "entry.id.234": {
+      "lid": "L267",
+      "senses": {
+        "L267-S1": true,
+        "L267-S2": true
+      }
+    },
+    "entry.id.235": {
+      "lid": "L268",
+      "senses": {
+        "L268-S1": true
+      }
+    },
+    "entry.id.236": {
+      "lid": "L269",
+      "senses": {
+        "L269-S1": true,
+        "L269-S2": true,
+        "L269-S3": true
+      }
+    },
+    "entry.id.237": {
+      "lid": "L270",
+      "senses": {
+        "L270-S1": true
+      }
+    },
+    "entry.id.238": {
+      "lid": "L271",
+      "senses": {
+        "L271-S1": true,
+        "L271-S2": true
+      }
+    },
+    "entry.id.239": {
+      "lid": "L272",
+      "senses": {
+        "L272-S1": true,
+        "L272-S2": true,
+        "L272-S3": true
+      }
+    },
+    "entry.id.240": {
+      "lid": "L273",
+      "senses": {
+        "L273-S1": true
+      }
+    },
+    "entry.id.241": {
+      "lid": "L274",
+      "senses": {
+        "L274-S1": true
+      }
+    },
+    "entry.id.242": {
+      "lid": "L275",
+      "senses": {
+        "L275-S1": true
+      }
+    },
+    "entry.id.243": {
+      "lid": "L276",
+      "senses": {
+        "L276-S1": true
+      }
+    },
+    "entry.id.244": {
+      "lid": "L277",
+      "senses": {
+        "L277-S1": true,
+        "L277-S2": true
+      }
+    },
+    "entry.id.245": {
+      "lid": "L278",
+      "senses": {
+        "L278-S1": true
+      }
+    },
+    "entry.id.246": {
+      "lid": "L279",
+      "senses": {
+        "L279-S1": true,
+        "L279-S2": true
+      }
+    },
+    "entry.id.247": {
+      "lid": "L280",
+      "senses": {
+        "L280-S1": true
+      }
+    },
+    "entry.id.248": {
+      "lid": "L281",
+      "senses": {
+        "L281-S1": true
+      }
+    },
+    "entry.id.249": {
+      "lid": "L282",
+      "senses": {
+        "L282-S1": true
+      }
+    },
+    "entry.id.250": {
+      "lid": "L283",
+      "senses": {
+        "L283-S1": true
+      }
+    },
+    "entry.id.251": {
+      "lid": "L284",
+      "senses": {
+        "L284-S1": true
+      }
+    },
+    "entry.id.252": {
+      "lid": "L285",
+      "senses": {
+        "L285-S1": true,
+        "L285-S2": true
+      }
+    },
+    "entry.id.253": {
+      "lid": "L286",
+      "senses": {
+        "L286-S1": true,
+        "L286-S2": true,
+        "L286-S3": true,
+        "L286-S4": true
+      }
+    },
+    "entry.id.254": {
+      "lid": "L287",
+      "senses": {
+        "L287-S1": true,
+        "L287-S2": true,
+        "L287-S3": true,
+        "L287-S4": true,
+        "L287-S5": true
+      }
+    },
+    "entry.id.255": {
+      "lid": "L288",
+      "senses": {
+        "L288-S1": true,
+        "L288-S2": true
+      }
+    },
+    "entry.id.256": {
+      "lid": "L289",
+      "senses": {
+        "L289-S1": true
+      }
+    },
+    "entry.id.257": {
+      "lid": "L290",
+      "senses": {
+        "L290-S1": true,
+        "L290-S2": true
+      }
+    },
+    "entry.id.258": {
+      "lid": "L291",
+      "senses": {
+        "L291-S1": true
+      }
+    },
+    "entry.id.259": {
+      "lid": "L292",
+      "senses": {
+        "L292-S1": true
+      }
+    },
+    "entry.id.260": {
+      "lid": "L293",
+      "senses": {
+        "L293-S1": true,
+        "L293-S2": true
+      }
+    },
+    "entry.id.261": {
+      "lid": "L294",
+      "senses": {
+        "L294-S1": true
+      }
+    },
+    "entry.id.262": {
+      "lid": "L295",
+      "senses": {
+        "L295-S1": true
+      }
+    },
+    "entry.id.263": {
+      "lid": "L296",
+      "senses": {
+        "L296-S1": true
+      }
+    },
+    "entry.id.264": {
+      "lid": "L297",
+      "senses": {
+        "L297-S1": true
+      }
+    },
+    "entry.id.265": {
+      "lid": "L298",
+      "senses": {
+        "L298-S1": true
+      }
+    },
+    "entry.id.266": {
+      "lid": "L299",
+      "senses": {
+        "L299-S1": true
+      }
+    },
+    "entry.id.267": {
+      "lid": "L300",
+      "senses": {
+        "L300-S1": true
+      }
+    },
+    "entry.id.268": {
+      "lid": "L301",
+      "senses": {
+        "L301-S1": true
+      }
+    },
+    "entry.id.269": {
+      "lid": "L302",
+      "senses": {
+        "L302-S1": true
+      }
+    },
+    "entry.id.270": {
+      "lid": "L303",
+      "senses": {
+        "L303-S1": true
+      }
+    },
+    "entry.id.271": {
+      "lid": "L304",
+      "senses": {
+        "L304-S1": true
+      }
+    },
+    "entry.id.272": {
+      "lid": "L305",
+      "senses": {
+        "L305-S1": true,
+        "L305-S2": true
+      }
+    },
+    "entry.id.273": {
+      "lid": "L306",
+      "senses": {
+        "L306-S1": true
+      }
+    },
+    "entry.id.274": {
+      "lid": "L307",
+      "senses": {
+        "L307-S1": true
+      }
+    },
+    "entry.id.275": {
+      "lid": "L308",
+      "senses": {
+        "L308-S1": true
+      }
+    },
+    "entry.id.276": {
+      "lid": "L309",
+      "senses": {
+        "L309-S1": true
+      }
+    },
+    "entry.id.277": {
+      "lid": "L310",
+      "senses": {
+        "L310-S1": true
+      }
+    },
+    "entry.id.278": {
+      "lid": "L311",
+      "senses": {
+        "L311-S1": true,
+        "L311-S2": true,
+        "L311-S3": true,
+        "L311-S4": true
+      }
+    },
+    "entry.id.279": {
+      "lid": "L312",
+      "senses": {
+        "L312-S1": true
+      }
+    },
+    "entry.id.280": {
+      "lid": "L313",
+      "senses": {
+        "L313-S1": true,
+        "L313-S2": true
+      }
+    },
+    "entry.id.281": {
+      "lid": "L314",
+      "senses": {
+        "L314-S1": true
+      }
+    },
+    "entry.id.282": {
+      "lid": "L315",
+      "senses": {
+        "L315-S1": true
+      }
+    },
+    "entry.id.283": {
+      "lid": "L316",
+      "senses": {
+        "L316-S1": true
+      }
+    },
+    "entry.id.284": {
+      "lid": "L317",
+      "senses": {
+        "L317-S1": true
+      }
+    },
+    "entry.id.285": {
+      "lid": "L318",
+      "senses": {
+        "L318-S1": true
+      }
+    },
+    "entry.id.286": {
+      "lid": "L319",
+      "senses": {
+        "L319-S1": true
+      }
+    },
+    "entry.id.287": {
+      "lid": "L320",
+      "senses": {
+        "L320-S1": true,
+        "L320-S2": true
+      }
+    },
+    "entry.id.288": {
+      "lid": "L321",
+      "senses": {
+        "L321-S1": true
+      }
+    },
+    "entry.id.289": {
+      "lid": "L322",
+      "senses": {
+        "L322-S1": true
+      }
+    },
+    "entry.id.290": {
+      "lid": "L323",
+      "senses": {
+        "L323-S1": true
+      }
+    },
+    "entry.id.291": {
+      "lid": "L324",
+      "senses": {
+        "L324-S1": true,
+        "L324-S2": true
+      }
+    },
+    "entry.id.292": {
+      "lid": "L325",
+      "senses": {
+        "L325-S1": true
+      }
+    },
+    "entry.id.293": {
+      "lid": "L326",
+      "senses": {
+        "L326-S1": true
+      }
+    },
+    "entry.id.294": {
+      "lid": "L327",
+      "senses": {
+        "L327-S1": true
+      }
+    },
+    "entry.id.295": {
+      "lid": "L328",
+      "senses": {
+        "L328-S1": true
+      }
+    },
+    "entry.id.296": {
+      "lid": "L329",
+      "senses": {
+        "L329-S1": true
+      }
+    },
+    "entry.id.297": {
+      "lid": "L330",
+      "senses": {
+        "L330-S1": true
+      }
+    },
+    "entry.id.298": {
+      "lid": "L331",
+      "senses": {
+        "L331-S1": true
+      }
+    },
+    "entry.id.299": {
+      "lid": "L332",
+      "senses": {
+        "L332-S1": true
+      }
+    },
+    "entry.id.300": {
+      "lid": "L333",
+      "senses": {
+        "L333-S1": true
+      }
+    },
+    "entry.id.301": {
+      "lid": "L334",
+      "senses": {
+        "L334-S1": true
+      }
+    },
+    "entry.id.302": {
+      "lid": "L335",
+      "senses": {
+        "L335-S1": true
+      }
+    },
+    "entry.id.303": {
+      "lid": "L336",
+      "senses": {
+        "L336-S1": true
+      }
+    },
+    "entry.id.304": {
+      "lid": "L337",
+      "senses": {
+        "L337-S1": true
+      }
+    },
+    "entry.id.305": {
+      "lid": "L338",
+      "senses": {
+        "L338-S1": true
+      }
+    },
+    "entry.id.306": {
+      "lid": "L339",
+      "senses": {
+        "L339-S1": true,
+        "L339-S2": true
+      }
+    },
+    "entry.id.307": {
+      "lid": "L340",
+      "senses": {
+        "L340-S1": true
+      }
+    },
+    "entry.id.308": {
+      "lid": "L341",
+      "senses": {
+        "L341-S1": true
+      }
+    },
+    "entry.id.309": {
+      "lid": "L342",
+      "senses": {
+        "L342-S1": true
+      }
+    },
+    "entry.id.310": {
+      "lid": "L343",
+      "senses": {
+        "L343-S1": true
+      }
+    },
+    "entry.id.311": {
+      "lid": "L344",
+      "senses": {
+        "L344-S1": true,
+        "L344-S2": true
+      }
+    },
+    "entry.id.312": {
+      "lid": "L345",
+      "senses": {
+        "L345-S1": true
+      }
+    },
+    "entry.id.313": {
+      "lid": "L346",
+      "senses": {
+        "L346-S1": true,
+        "L346-S2": true
+      }
+    },
+    "entry.id.314": {
+      "lid": "L347",
+      "senses": {
+        "L347-S1": true,
+        "L347-S2": true,
+        "L347-S3": true
+      }
+    },
+    "entry.id.315": {
+      "lid": "L348",
+      "senses": {
+        "L348-S1": true
+      }
+    },
+    "entry.id.316": {
+      "lid": "L349",
+      "senses": {
+        "L349-S1": true
+      }
+    },
+    "entry.id.317": {
+      "lid": "L350",
+      "senses": {
+        "L350-S1": true,
+        "L350-S2": true,
+        "L350-S3": true,
+        "L350-S4": true
+      }
+    },
+    "entry.id.318": {
+      "lid": "L351",
+      "senses": {
+        "L351-S1": true,
+        "L351-S2": true
+      }
+    },
+    "entry.id.319": {
+      "lid": "L352",
+      "senses": {
+        "L352-S1": true
+      }
+    },
+    "entry.id.320": {
+      "lid": "L353",
+      "senses": {
+        "L353-S1": true
+      }
+    },
+    "entry.id.321": {
+      "lid": "L354",
+      "senses": {
+        "L354-S1": true,
+        "L354-S2": true,
+        "L354-S3": true,
+        "L354-S4": true,
+        "L354-S5": true
+      }
+    },
+    "entry.id.322": {
+      "lid": "L355",
+      "senses": {
+        "L355-S1": true,
+        "L355-S2": true,
+        "L355-S3": true,
+        "L355-S4": true,
+        "L355-S5": true,
+        "L355-S6": true,
+        "L355-S7": true,
+        "L355-S8": true,
+        "L355-S9": true,
+        "L355-S10": true,
+        "L355-S11": true,
+        "L355-S12": true,
+        "L355-S13": true
+      }
+    },
+    "entry.id.323": {
+      "lid": "L356",
+      "senses": {
+        "L356-S1": true,
+        "L356-S2": true,
+        "L356-S3": true
+      }
+    },
+    "entry.id.324": {
+      "lid": "L357",
+      "senses": {
+        "L357-S1": true
+      }
+    },
+    "entry.id.325": {
+      "lid": "L358",
+      "senses": {
+        "L358-S1": true,
+        "L358-S2": true,
+        "L358-S3": true,
+        "L358-S4": true,
+        "L358-S5": true
+      }
+    },
+    "entry.id.326": {
+      "lid": "L359",
+      "senses": {
+        "L359-S1": true,
+        "L359-S2": true,
+        "L359-S3": true,
+        "L359-S4": true,
+        "L359-S5": true,
+        "L359-S6": true
+      }
+    },
+    "entry.id.327": {
+      "lid": "L360",
+      "senses": {
+        "L360-S1": true,
+        "L360-S2": true
+      }
+    },
+    "entry.id.328": {
+      "lid": "L361",
+      "senses": {
+        "L361-S1": true,
+        "L361-S2": true,
+        "L361-S3": true
+      }
+    },
+    "entry.id.329": {
+      "lid": "L362",
+      "senses": {
+        "L362-S1": true
+      }
+    },
+    "entry.id.330": {
+      "lid": "L363",
+      "senses": {
+        "L363-S1": true
+      }
+    },
+    "entry.id.331": {
+      "lid": "L364",
+      "senses": {
+        "L364-S1": true,
+        "L364-S2": true
+      }
+    },
+    "entry.id.332": {
+      "lid": "L365",
+      "senses": {
+        "L365-S1": true,
+        "L365-S2": true,
+        "L365-S3": true
+      }
+    },
+    "entry.id.333": {
+      "lid": "L366",
+      "senses": {
+        "L366-S1": true,
+        "L366-S2": true,
+        "L366-S3": true,
+        "L366-S4": true
+      }
+    },
+    "entry.id.334": {
+      "lid": "L367",
+      "senses": {
+        "L367-S1": true,
+        "L367-S2": true
+      }
+    },
+    "entry.id.335": {
+      "lid": "L368",
+      "senses": {
+        "L368-S1": true
+      }
+    },
+    "entry.id.336": {
+      "lid": "L369",
+      "senses": {
+        "L369-S1": true
+      }
+    },
+    "entry.id.337": {
+      "lid": "L370",
+      "senses": {
+        "L370-S1": true,
+        "L370-S2": true
+      }
+    },
+    "entry.id.338": {
+      "lid": "L371",
+      "senses": {
+        "L371-S1": true
+      }
+    },
+    "entry.id.339": {
+      "lid": "L372",
+      "senses": {
+        "L372-S1": true
+      }
+    },
+    "entry.id.340": {
+      "lid": "L373",
+      "senses": {
+        "L373-S1": true
+      }
+    },
+    "entry.id.341": {
+      "lid": "L374",
+      "senses": {
+        "L374-S1": true
+      }
+    },
+    "entry.id.342": {
+      "lid": "L375",
+      "senses": {
+        "L375-S1": true
+      }
+    },
+    "entry.id.343": {
+      "lid": "L376",
+      "senses": {
+        "L376-S1": true,
+        "L376-S2": true,
+        "L376-S3": true,
+        "L376-S4": true,
+        "L376-S5": true,
+        "L376-S6": true
+      }
+    },
+    "entry.id.344": {
+      "lid": "L377",
+      "senses": {
+        "L377-S1": true,
+        "L377-S2": true,
+        "L377-S3": true,
+        "L377-S4": true,
+        "L377-S5": true
+      }
+    },
+    "entry.id.345": {
+      "lid": "L378",
+      "senses": {
+        "L378-S1": true
+      }
+    },
+    "entry.id.346": {
+      "lid": "L379",
+      "senses": {
+        "L379-S1": true
+      }
+    },
+    "entry.id.347": {
+      "lid": "L380",
+      "senses": {
+        "L380-S1": true
+      }
+    },
+    "entry.id.348": {
+      "lid": "L381",
+      "senses": {
+        "L381-S1": true
+      }
+    },
+    "entry.id.349": {
+      "lid": "L382",
+      "senses": {
+        "L382-S1": true,
+        "L382-S2": true,
+        "L382-S3": true,
+        "L382-S4": true,
+        "L382-S5": true
+      }
+    },
+    "entry.id.350": {
+      "lid": "L383",
+      "senses": {
+        "L383-S1": true,
+        "L383-S2": true,
+        "L383-S3": true
+      }
+    },
+    "entry.id.351": {
+      "lid": "L384",
+      "senses": {
+        "L384-S1": true,
+        "L384-S2": true,
+        "L384-S3": true,
+        "L384-S4": true,
+        "L384-S5": true,
+        "L384-S6": true,
+        "L384-S7": true,
+        "L384-S8": true
+      }
+    },
+    "entry.id.352": {
+      "lid": "L385",
+      "senses": {
+        "L385-S1": true,
+        "L385-S2": true
+      }
+    },
+    "entry.id.353": {
+      "lid": "L386",
+      "senses": {
+        "L386-S1": true
+      }
+    },
+    "entry.id.354": {
+      "lid": "L387",
+      "senses": {
+        "L387-S1": true,
+        "L387-S2": true
+      }
+    },
+    "entry.id.355": {
+      "lid": "L388",
+      "senses": {
+        "L388-S1": true
+      }
+    },
+    "entry.id.356": {
+      "lid": "L389",
+      "senses": {
+        "L389-S1": true,
+        "L389-S2": true
+      }
+    },
+    "entry.id.357": {
+      "lid": "L390",
+      "senses": {
+        "L390-S1": true
+      }
+    },
+    "entry.id.358": {
+      "lid": "L391",
+      "senses": {
+        "L391-S1": true
+      }
+    },
+    "entry.id.359": {
+      "lid": "L392",
+      "senses": {
+        "L392-S1": true,
+        "L392-S2": true,
+        "L392-S3": true,
+        "L392-S4": true
+      }
+    },
+    "entry.id.360": {
+      "lid": "L393",
+      "senses": {
+        "L393-S1": true
+      }
+    },
+    "entry.id.361": {
+      "lid": "L394",
+      "senses": {
+        "L394-S1": true,
+        "L394-S2": true,
+        "L394-S3": true,
+        "L394-S4": true
+      }
+    },
+    "entry.id.362": {
+      "lid": "L395",
+      "senses": {
+        "L395-S1": true,
+        "L395-S2": true
+      }
+    },
+    "entry.id.363": {
+      "lid": "L396",
+      "senses": {
+        "L396-S1": true
+      }
+    },
+    "entry.id.364": {
+      "lid": "L397",
+      "senses": {
+        "L397-S1": true
+      }
+    },
+    "entry.id.365": {
+      "lid": "L398",
+      "senses": {
+        "L398-S1": true,
+        "L398-S2": true
+      }
+    },
+    "entry.id.366": {
+      "lid": "L399",
+      "senses": {
+        "L399-S1": true
+      }
+    },
+    "entry.id.367": {
+      "lid": "L400",
+      "senses": {
+        "L400-S1": true
+      }
+    },
+    "entry.id.368": {
+      "lid": "L401",
+      "senses": {
+        "L401-S1": true
+      }
+    },
+    "entry.id.369": {
+      "lid": "L402",
+      "senses": {
+        "L402-S1": true
+      }
+    },
+    "entry.id.370": {
+      "lid": "L403",
+      "senses": {
+        "L403-S1": true,
+        "L403-S2": true
+      }
+    },
+    "entry.id.371": {
+      "lid": "L404",
+      "senses": {
+        "L404-S1": true,
+        "L404-S2": true
+      }
+    },
+    "entry.id.372": {
+      "lid": "L405",
+      "senses": {
+        "L405-S1": true,
+        "L405-S2": true,
+        "L405-S3": true
+      }
+    },
+    "entry.id.373": {
+      "lid": "L406",
+      "senses": {
+        "L406-S1": true,
+        "L406-S2": true
+      }
+    },
+    "entry.id.374": {
+      "lid": "L407",
+      "senses": {
+        "L407-S1": true
+      }
+    },
+    "entry.id.375": {
+      "lid": "L408",
+      "senses": {
+        "L408-S1": true,
+        "L408-S2": true,
+        "L408-S3": true
+      }
+    },
+    "entry.id.376": {
+      "lid": "L409",
+      "senses": {
+        "L409-S1": true
+      }
+    },
+    "entry.id.377": {
+      "lid": "L410",
+      "senses": {
+        "L410-S1": true
+      }
+    },
+    "entry.id.378": {
+      "lid": "L411",
+      "senses": {
+        "L411-S1": true
+      }
+    },
+    "entry.id.379": {
+      "lid": "L412",
+      "senses": {
+        "L412-S1": true
+      }
+    },
+    "entry.id.380": {
+      "lid": "L413",
+      "senses": {
+        "L413-S1": true
+      }
+    },
+    "entry.id.381": {
+      "lid": "L414",
+      "senses": {
+        "L414-S1": true
+      }
+    },
+    "entry.id.382": {
+      "lid": "L415",
+      "senses": {
+        "L415-S1": true,
+        "L415-S2": true
+      }
+    },
+    "entry.id.383": {
+      "lid": "L416",
+      "senses": {
+        "L416-S1": true
+      }
+    },
+    "entry.id.384": {
+      "lid": "L417",
+      "senses": {
+        "L417-S1": true
+      }
+    },
+    "entry.id.385": {
+      "lid": "L418",
+      "senses": {
+        "L418-S1": true
+      }
+    },
+    "entry.id.386": {
+      "lid": "L419",
+      "senses": {
+        "L419-S1": true,
+        "L419-S2": true
+      }
+    },
+    "entry.id.387": {
+      "lid": "L420",
+      "senses": {
+        "L420-S1": true,
+        "L420-S2": true,
+        "L420-S3": true
+      }
+    },
+    "entry.id.388": {
+      "lid": "L421",
+      "senses": {
+        "L421-S1": true,
+        "L421-S2": true
+      }
+    },
+    "entry.id.389": {
+      "lid": "L422",
+      "senses": {
+        "L422-S1": true
+      }
+    },
+    "entry.id.390": {
+      "lid": "L423",
+      "senses": {
+        "L423-S1": true
+      }
+    },
+    "entry.id.391": {
+      "lid": "L424",
+      "senses": {
+        "L424-S1": true,
+        "L424-S2": true
+      }
+    },
+    "entry.id.392": {
+      "lid": "L425",
+      "senses": {
+        "L425-S1": true,
+        "L425-S2": true
+      }
+    },
+    "entry.id.393": {
+      "lid": "L426",
+      "senses": {
+        "L426-S1": true
+      }
+    },
+    "entry.id.394": {
+      "lid": "L427",
+      "senses": {
+        "L427-S1": true
+      }
+    },
+    "entry.id.395": {
+      "lid": "L428",
+      "senses": {
+        "L428-S1": true,
+        "L428-S2": true
+      }
+    },
+    "entry.id.396": {
+      "lid": "L429",
+      "senses": {
+        "L429-S1": true
+      }
+    },
+    "entry.id.397": {
+      "lid": "L430",
+      "senses": {
+        "L430-S1": true,
+        "L430-S2": true
+      }
+    },
+    "entry.id.398": {
+      "lid": "L431",
+      "senses": {
+        "L431-S1": true
+      }
+    },
+    "entry.id.399": {
+      "lid": "L432",
+      "senses": {
+        "L432-S1": true
+      }
+    },
+    "entry.id.400": {
+      "lid": "L433",
+      "senses": {
+        "L433-S1": true
+      }
+    },
+    "entry.id.401": {
+      "lid": "L434",
+      "senses": {
+        "L434-S1": true
+      }
+    },
+    "entry.id.402": {
+      "lid": "L435",
+      "senses": {
+        "L435-S1": true
+      }
+    },
+    "entry.id.403": {
+      "lid": "L436",
+      "senses": {
+        "L436-S1": true
+      }
+    },
+    "entry.id.404": {
+      "lid": "L437",
+      "senses": {
+        "L437-S1": true,
+        "L437-S2": true
+      }
+    },
+    "entry.id.405": {
+      "lid": "L438",
+      "senses": {
+        "L438-S1": true
+      }
+    },
+    "entry.id.406": {
+      "lid": "L439",
+      "senses": {
+        "L439-S1": true
+      }
+    },
+    "entry.id.407": {
+      "lid": "L440",
+      "senses": {
+        "L440-S1": true,
+        "L440-S2": true
+      }
+    },
+    "entry.id.408": {
+      "lid": "L441",
+      "senses": {
+        "L441-S1": true
+      }
+    },
+    "entry.id.409": {
+      "lid": "L442",
+      "senses": {
+        "L442-S1": true
+      }
+    },
+    "entry.id.410": {
+      "lid": "L443",
+      "senses": {
+        "L443-S1": true
+      }
+    },
+    "entry.id.411": {
+      "lid": "L444",
+      "senses": {
+        "L444-S1": true
+      }
+    },
+    "entry.id.412": {
+      "lid": "L445",
+      "senses": {
+        "L445-S1": true
+      }
+    },
+    "entry.id.413": {
+      "lid": "L446",
+      "senses": {
+        "L446-S1": true,
+        "L446-S2": true
+      }
+    },
+    "entry.id.414": {
+      "lid": "L447",
+      "senses": {
+        "L447-S1": true,
+        "L447-S2": true
+      }
+    },
+    "entry.id.415": {
+      "lid": "L448",
+      "senses": {
+        "L448-S1": true,
+        "L448-S2": true
+      }
+    },
+    "entry.id.416": {
+      "lid": "L449",
+      "senses": {
+        "L449-S1": true
+      }
+    },
+    "entry.id.417": {
+      "lid": "L450",
+      "senses": {
+        "L450-S1": true
+      }
+    },
+    "entry.id.418": {
+      "lid": "L451",
+      "senses": {
+        "L451-S1": true,
+        "L451-S2": true,
+        "L451-S3": true
+      }
+    },
+    "entry.id.419": {
+      "lid": "L452",
+      "senses": {
+        "L452-S1": true,
+        "L452-S2": true
+      }
+    },
+    "entry.id.420": {
+      "lid": "L453",
+      "senses": {
+        "L453-S1": true
+      }
+    },
+    "entry.id.421": {
+      "lid": "L454",
+      "senses": {
+        "L454-S1": true
+      }
+    },
+    "entry.id.422": {
+      "lid": "L455",
+      "senses": {
+        "L455-S1": true,
+        "L455-S2": true
+      }
+    },
+    "entry.id.423": {
+      "lid": "L456",
+      "senses": {
+        "L456-S1": true
+      }
+    },
+    "entry.id.424": {
+      "lid": "L457",
+      "senses": {
+        "L457-S1": true
+      }
+    },
+    "entry.id.425": {
+      "lid": "L458",
+      "senses": {
+        "L458-S1": true
+      }
+    },
+    "entry.id.426": {
+      "lid": "L459",
+      "senses": {
+        "L459-S1": true
+      }
+    },
+    "entry.id.427": {
+      "lid": "L460",
+      "senses": {
+        "L460-S1": true,
+        "L460-S2": true,
+        "L460-S3": true,
+        "L460-S4": true,
+        "L460-S5": true,
+        "L460-S6": true,
+        "L460-S7": true,
+        "L460-S8": true
+      }
+    },
+    "entry.id.428": {
+      "lid": "L461",
+      "senses": {
+        "L461-S1": true
+      }
+    },
+    "entry.id.429": {
+      "lid": "L462",
+      "senses": {
+        "L462-S1": true
+      }
+    }
   }
 }

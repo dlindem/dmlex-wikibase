@@ -78,8 +78,21 @@ for entry in source['entries']:
 
     if entry['id'] in controldata['entries']:
         print(f"Entry '{entry['id']}' is already on Wikibase as {controldata['entries'][entry['id']]}")
-        lexeme = xwbi.wbi.lexeme.get(entity_id=controldata['entries'][entry['id']])
-        #continue
+        lexeme = xwbi.wbi.lexeme.get(entity_id=controldata['entries'][entry['id']]['lid'])
+        if 'senses' in entry: # check if wikibase senses are in controldata
+            if 'senses' not in controldata['entries'][entry['id']]:
+                controldata['entries'][entry['id']]['senses'] = {}
+            senses_control_edit = False
+            for wb_sense in lexeme.senses.get_json():
+                if wb_sense['id'] not in controldata['entries'][entry['id']]['senses']:
+                    controldata['entries'][entry['id']]['senses'][wb_sense['id']] = True # todo: if dmlex sense has identifier, save it here
+                    senses_control_edit = True
+            if senses_control_edit:
+                print("Have found Wikibase sense(s) not present in local control dataset. Fixed")
+                dump_controldata(controldata)
+
+
+        continue
     else:
         lexeme = xwbi.wbi.lexeme.new(language=langCode_item, lexical_category=pos_item)
 
@@ -117,7 +130,7 @@ for entry in source['entries']:
             lexeme.senses.add(lexeme_sense)
 
     lexeme.write(clear=True)
-    controldata['entries'][entry['id']] = lexeme.id
+    controldata['entries'][entry['id']]['lid'] = lexeme.id
     dump_controldata(controldata)
     print(f"Finished processing entry '{entry['id']}', now on Wikibase as '{lexeme.id}'.")
     time.sleep(1)
