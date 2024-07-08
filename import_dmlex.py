@@ -1,8 +1,10 @@
 import json, re, time
+import sys
+
 from bots import xwbi
 
 
-source_file = "ssc_out.json"
+source_file = "AAS-SAS-part.json"
 
 def dump_controldata(controldata):
     with open(f"dmlex_controldata/{source_file}", "w", encoding="utf-8") as metafile:
@@ -20,14 +22,17 @@ except:
 if 'langCode_wiki' in controldata and 'langCode_item' in controldata:
     langCode_wiki = controldata['langCode_wiki']
     langCode_item = controldata['langCode_item']
-#else: # get language data from Wikibase
-    # query = "select ?langCode ?langCode_wiki ?langCode_item where { "
-    # query += f"?langCode_item xdp:P32 ?langCode; "
-    #
-    # bindings = xwbi.wbi_helpers.execute_sparql_query(query=query, prefix=xwbi.config['mapping']['wikibase_sparql_prefixes'],
-    #                                                  endpoint=xwbi.config['mapping']['wikibase_sparql_endpoint'])['results'][
-    #     'bindings']
-    # print(results)
+else: # get language data from Wikibase
+
+    query = "select ?langCode ?langCode_wiki ?langCode_item where { "
+    query += f'?langCode_item xdp:P32 ?langCode; xdp:P185 {}.'
+    query += "}"
+
+    results = xwbi.wbi_helpers.execute_sparql_query(query=query, prefix=xwbi.config['mapping']['wikibase_sparql_prefixes'],
+                                                     endpoint=xwbi.config['mapping']['wikibase_sparql_endpoint'])['results'][
+        'bindings']
+    print(results)
+    sys.exit()
 if "dictionary_item" in controldata:
     dict_qid = controldata['dictionary_item'] # dict already exists on Wikibase
 else: # create item describing dictionary
