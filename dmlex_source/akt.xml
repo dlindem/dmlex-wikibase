@@ -1,0 +1,81 @@
+<lexicographicResource uri="https://some.uri" langCode="sl" title="Slovensko-angleški slovar">
+<translationLanguage langCode="en"/>
+<entry id="AAS-SAS_akt_1">
+<headword>akt</headword>
+<pronunciation>
+  <transcription><text>ákt</text></transcription>
+</pronunciation>
+  <sense id="AAS-SAS_akt_1-1">
+  <headwordTranslation>
+    <text>act</text>
+  </headwordTranslation>
+  <headwordTranslation>
+    <text>action</text>
+  </headwordTranslation>
+  </sense>
+  <sense id="AAS-SAS_akt_1-2">
+    <label tag="gledališče"/>
+  <headwordTranslation>
+    <text>act</text>
+  </headwordTranslation>
+  </sense>
+  <sense id="AAS-SAS_akt_1-3">
+  <definition definitionType="indicator"><text>spis</text></definition>
+  <headwordTranslation>
+    <text>document</text>
+  </headwordTranslation>
+  <headwordTranslation>
+    <text>official document</text>
+  </headwordTranslation>
+  <headwordTranslation>
+    <text>deed</text>
+  </headwordTranslation>
+  <headwordTranslation>
+    <text>record</text>
+  </headwordTranslation>
+  <headwordTranslation>
+    <text>report</text>
+  </headwordTranslation>
+  </sense>
+  <sense id="AAS-SAS_akt_1-4">
+  <headwordTranslation>
+    <text>instrument</text>
+  </headwordTranslation>
+  <headwordTranslation>
+    <text>legal instrument</text>
+  </headwordTranslation>
+  </sense>
+  <sense id="AAS-SAS_akt_1-5">
+  <definition definitionType="indicator"><text>slikarski</text></definition>
+  <headwordTranslation>
+    <text>nude</text>
+  </headwordTranslation>
+  </sense>
+  <sense id="AAS-SAS_akt_1-6">
+  <label tag="medicina"/>
+  <headwordTranslation>
+    <text>coitus</text>
+  </headwordTranslation>
+  </sense>
+  <sense id="AAS-SAS_akt_1-7">
+  <example>
+    <text>upravni akt</text>
+    <exampleTranslation>
+      <text>administrative act</text>
+    </exampleTranslation>
+  </example>
+  <example>
+    <text>dokončni upravni akt</text>
+    <exampleTranslation>
+      <text>finally-binding administrative act</text>
+    </exampleTranslation>
+  </example>
+  </sense>
+</entry>
+  <definitionTypeTag tag="indicator">
+<description>This tag refers to a type of definition called "indicator"</description>
+</definitionTypeTag>
+  <labelTag tag="medicina" typeTag="domain"/>
+  <labelTag tag="gledališče" typeTag="domain"/>
+  <labelTypeTag tag="domain"></labelTypeTag>
+</lexicographicResource>
